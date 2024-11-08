@@ -14,4 +14,4 @@ CSS3
 
 I added the screen recording of the project below.
 
-![Zight Recording 2024-11-08 at 02 00 47 PM](https://github.com/user-attachments/assets/782893a6-2bcd-413b-96a8-5e4459cd046a)
+![Zight Recording 2024-11-08 at 02 29 48 PM](https://github.com/user-attachments/assets/146ef013-3e2b-491d-9114-9b06354081d4)
